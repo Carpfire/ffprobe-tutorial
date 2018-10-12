@@ -1,0 +1,24 @@
+{
+  "name": "ffprobe-kit",
+  "version": "1.0.0",
+  "description": "ffprobe tutorial package",
+  "main": "level-1.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "cp": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learninglab-dev/ffprobe-kit.git"
+  },
+  "author": "1aurend & philsometimes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/learninglab-dev/ffprobe-kit/issues"
+  },
+  "homepage": "https://github.com/learninglab-dev/ffprobe-kit#readme"
+}
